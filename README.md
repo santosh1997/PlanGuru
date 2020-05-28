@@ -9,7 +9,9 @@ Hi !!
 
 2. Taken care there is no bottle neck which degrades the performance
 
-3. Datetime ISO String is getting saved in DB to ensure that all the datetime values in disk are in UTC Timezone
+3. Made sure all are non blocking async calls
+
+4. Datetime ISO String is getting saved in DB to ensure that all the datetime values in disk are in UTC Timezone
 (It standardizes the datetime values stored)
 
 
