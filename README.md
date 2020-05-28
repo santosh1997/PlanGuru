@@ -46,6 +46,19 @@ Hi !!
 
 `Note: Used postgres, since got to know that PeopleGrove uses postgres from the interviewer`
 
+
+## Application Setup
+
+### API
+1. Scripts.sql provided in API should be executed in a Postgres Server
+2. Make required chaanges in `.env` file.
+3. npm install followed by nodemon
+
+### APP
+1. Make sure API is running
+2. npm install followed by npm start
+
+
 Contact me anytime @
 - +91 8189852694
 - santikage@gmail.com
