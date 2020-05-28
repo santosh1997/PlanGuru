@@ -33,3 +33,19 @@ Hi !!
 2. Proper Validations (Added most of the Validations, still few haven't validated)
 3. Better Authentication (Wrote a very basic authentication due to time constraint)
 4. UI 
+
+
+
+# Technology
+
+## Stack
+
+1. React (With simple CSS)
+2. Express
+3. Postgres
+
+`Note: Used postgres, since got to know that PeopleGrove uses postgres from the interviewer`
+
+Contact me anytime @
+- +91 8189852694
+- santikage@gmail.com
