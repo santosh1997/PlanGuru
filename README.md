@@ -1,4 +1,6 @@
-# pg-santosh
+# Plan Guru
+
+# Repo to showcase my javascript skills
 
 Hi !!
 
@@ -37,7 +39,6 @@ Hi !!
 4. UI 
 
 
-
 # Technology
 
 ## Stack
@@ -45,8 +46,6 @@ Hi !!
 1. React (With simple CSS)
 2. Express
 3. Postgres
-
-`Note: Used postgres, since got to know that PeopleGrove uses postgres from the interviewer`
 
 
 ## Application Setup
